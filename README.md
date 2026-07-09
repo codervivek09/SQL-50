@@ -1,6 +1,6 @@
 # SQL-50
 
-# LeetCode SQL 50 Solutions
+LeetCode SQL 50 Solutions
 
 This repository contains my solutions to the LeetCode SQL 50 Study Plan using MySQL.
 
