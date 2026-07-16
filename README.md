@@ -20,7 +20,7 @@ This repository contains my solutions to the LeetCode SQL 50 Study Plan using My
 - ✅ Q6 - LeetCode 1378
 - ✅ Q7 - LeetCode 1068
 - ✅ Q8 - LeetCode 1581
-
+- ✅ Q9 - LeetCode 197
 
 The goal of this repository is to improve SQL problem-solving skills and build a strong foundation in database querying through consistent practice on LeetCode.
 =======
